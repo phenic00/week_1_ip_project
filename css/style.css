@@ -1,3 +1,10 @@
 body {
     background-color:rgb(174, 255, 127)
   }
+  H3 {
+    color: rgb(255, 0, 208);
+    font-size: large;
+    text-decoration: solid;
+    text-decoration: underline;
+    box-sizing: border-box;
+  }
