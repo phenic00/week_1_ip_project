@@ -8,4 +8,13 @@ body {
     text-decoration: underline;
     box-sizing: border-box;
   }
-  
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  p {
+    color: rgb(6, 93, 44);
+    font-style: italic;
+  }
