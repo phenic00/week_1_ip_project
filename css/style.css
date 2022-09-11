@@ -1,12 +1,17 @@
 body {
-    background-color:rgb(174, 255, 127)
+  
+    background-color: rgb(16, 158, 108);
+       
+  
+   
   }
   H3 {
-    color: rgb(255, 0, 208);
+    color: rgb(105, 19, 91);
     font-size: large;
     text-decoration: solid;
     text-decoration: underline;
     box-sizing: border-box;
+    
   }
   div {
     padding-top: 50px;
@@ -15,6 +20,13 @@ body {
     padding-left: 80px;
   }
   p {
-    color: rgb(6, 93, 44);
+    color: rgb(198, 202, 199);
     font-style: italic;
+  }
+  h2 {
+    color: rgb(30, 4, 103);
+    
+  }
+  # center{
+    color: blue;
   }
